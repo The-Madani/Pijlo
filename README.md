@@ -33,7 +33,7 @@ pip install deep_translator
 ```
 
 ```bash
-pip install openai
+pip install openai==1.0.0
 ```
 
 ```bash
